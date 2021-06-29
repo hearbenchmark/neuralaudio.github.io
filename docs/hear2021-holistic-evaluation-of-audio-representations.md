@@ -45,11 +45,6 @@ be on classification, tagging, temporal tagging, and distance tasks.
 
 Look forward to the following announcements: starter-kit, sandbox,
 leaderboard, etc. We will be making announcements in several places:
-* Our [HEAR
-2021](https://discuss.neuralaudio.ai/c/hear-2021-neurips-challenge/)
-category in the Neural Audio AI [forum](https://discuss.neuralaudio.ai/).
-The forum also provides a place to discuss audio ML research beyond
-this challenge.
 * Our low-volume announcement [mailing list](http://eepurl.com/hwrhrz).
 * Our [twitter](https://twitter.com/neuralaudio) account.
 
@@ -108,10 +103,7 @@ For the following kinds of tasks, we will use only embedding distance (no learni
 
 A primary goal of this challenge is to encourage the development
 of easy-to-use, freely-available general-purpose audio representation
-models. If you have any questions about the rules, please post on
-the
-[forum](https://discuss.neuralaudio.ai/c/hear-2021-neurips-challenge/) or
-[email us](mailto:deep-at-neuralaudio.ai) privately.
+models. If you have any questions about the rules, please [email us](mailto:deep-at-neuralaudio.ai).
 
 <p></p>
 **Freely-available:**
@@ -266,7 +258,4 @@ You can learn more about the committee [here](hear2021-committee-members).
 <p></p>
 ## Questions?
 
-We encourage you to post on the
-[forum](https://discuss.neuralaudio.ai/c/hear-2021-neurips-challenge/).
-However, if your question is private, please [email
-us](mailto:deep-at-neuralaudio.ai) directly.
+We encourage you to [email us](mailto:deep-at-neuralaudio.ai).
